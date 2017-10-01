@@ -1,0 +1,7 @@
+[package]
+name = "leap-year"
+version = "0.1.0"
+authors = ["David Björklund <david.bjorklund@gmail.com>"]
+repository = "https://github.com/kesla/leap-year.rs"
+
+[dependencies]
