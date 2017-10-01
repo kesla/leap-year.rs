@@ -3,5 +3,7 @@ name = "leap-year"
 version = "0.1.0"
 authors = ["David Björklund <david.bjorklund@gmail.com>"]
 repository = "https://github.com/kesla/leap-year.rs"
+license = "MIT"
+description = "Check if a year is a leap year"
 
 [dependencies]
